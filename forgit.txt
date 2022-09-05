@@ -1,0 +1,2 @@
+
+2022-09-05 15:56:37.267524 Total profit for trades belonging to magical number 111 : 0.0
